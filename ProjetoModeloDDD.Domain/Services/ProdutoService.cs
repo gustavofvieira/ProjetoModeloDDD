@@ -15,6 +15,7 @@ namespace ProjetoModeloDDD.Domain.Services
             _produtoRepository = produtoRepository;
         }
 
+        // recebe por injeção de depedencia
         public IEnumerable<Produto> BuscarPorNome(string nome)
         {
             return _produtoRepository.BuscarPorNome(nome);
