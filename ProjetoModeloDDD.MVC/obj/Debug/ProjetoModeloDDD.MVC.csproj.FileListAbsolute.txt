@@ -93,3 +93,5 @@ C:\Users\Usuario\Documents\GustavoSln's\ProjetoModeloDDD\ProjetoModeloDDD.MVC\ob
 C:\Users\Usuario\Documents\GustavoSln's\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csproj.CopyComplete
 C:\Users\Usuario\Documents\GustavoSln's\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
 C:\Users\Usuario\Documents\GustavoSln's\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
+C:\Users\Usuario\Documents\GustavoSln's\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\GustavoSln's\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml

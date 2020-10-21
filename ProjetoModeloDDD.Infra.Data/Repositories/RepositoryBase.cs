@@ -1,14 +1,14 @@
 ﻿
 using System.Collections.Generic;
-using ProjetoModeloDDD.Domain.Interfaces;
+using ProjetoModeloDDD.Domain.Interfaces.Repositories;
 using ProjetoModeloDDD.Infra.Data.Contexto;
 using System.Linq;
 using System.Data.Entity;
-using System.Data.SqlClient;
+using System;
 
 namespace ProjetoModeloDDD.Infra.Data.Repositories
 {
-    public class RepositoryBase<TEntity> : IDisposible, IRepositoryBase<TEntity> where TEntity : class
+    public class RepositoryBase<TEntity> : IDisposable, IRepositoryBase<TEntity> where TEntity : class
     {
 
         // adicionando contexto para a manipulação de objetos genéricos
