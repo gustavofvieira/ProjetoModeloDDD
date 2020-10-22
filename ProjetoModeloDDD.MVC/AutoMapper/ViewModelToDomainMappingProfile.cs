@@ -17,7 +17,7 @@ namespace ProjetoModeloDDD.MVC.AutoMapper
         protected override void Configure()
         {
             Mapper.CreateMap<Cliente, ClienteViewModel>();
-            Mapper.CreateMap<ProdutoViewModel, Produto>();
+            Mapper.CreateMap<Produto, ProdutoViewModel>();
 
         }
     }
